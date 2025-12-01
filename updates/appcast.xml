@@ -5,7 +5,7 @@
     <title>Zenshield</title>
     <description>Updates for Zenshield</description>
     <language>en</language>
-        <item>
+    <item>
       <title>Zenshield 0.1.0+1</title>
       <sparkle:releaseNotesLink>
         https://github.com/po1inakoroleva/zenshield-updates/releases/tag/v0.1.0+1
