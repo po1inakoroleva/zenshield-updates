@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0"
+     xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle">
+  <channel>
+    <title>Zenshield</title>
+    <description>Updates for Zenshield</description>
+    <language>en</language>
+        <item>
+      <title>Zenshield 0.1.0+1</title>
+      <sparkle:releaseNotesLink>
+        https://github.com/po1inakoroleva/zenshield-updates/releases/tag/v0.1.0+1
+      </sparkle:releaseNotesLink>
+      <pubDate>Mon, 01 Dec 2025 12:00:00 +0000</pubDate>
+      <enclosure
+        url="https://github.com/po1inakoroleva/zenshield-updates/releases/download/v0.1.0+1/zenshield-0.1.0+1-windows-setup.exe"
+        sparkle:os="windows"
+        sparkle:version="0.1.0+1"
+        sparkle:dsaSignature="MDwCHGZc5Ls+FFSlVLpHgsszXYtfAXb5n78jyB3cPCwCHFAotzTsr2jau6ZA07AzD6Aze6jGv7ZGlmPYYhs="
+        length="36718904"
+        type="application/octet-stream" />
+    </item>
+  </channel>
+</rss>
