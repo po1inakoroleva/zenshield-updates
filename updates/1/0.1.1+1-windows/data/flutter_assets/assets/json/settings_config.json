@@ -1,0 +1,25 @@
+{
+    "logLevel": "debug",
+    "logsPath": "",
+    "remoteDns": "1.1.1.1",
+    "directDns": "local",
+    "tunImplementation": "mixed",
+    "urlTestInterval": 3,
+    "clashApiToken": "987a9ds87k",
+    "clashApiPort": 16756,
+    "paddingRange": [
+        5500,
+        12000
+    ],
+    "outboundsLinks": [
+        "vless://a697a77e-8872-9fcb-9c39-e4e0633e79f4@144.31.87.163:443?security=none&type=ws&headerType=none&path=/vlessws#Highlight+VPN"
+    ],
+    "routes": {
+        "direct": [],
+        "proxy": [],
+        "block": []
+    },
+    "geoSiteUrl": "",
+    "geoIpUrl": "",
+    "isMobile": true
+}
